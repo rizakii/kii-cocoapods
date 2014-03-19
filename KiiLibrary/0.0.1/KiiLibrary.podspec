@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author             = { "Riza" => "riza.alaudin@kii.com" }
   # s.platform     = :ios
   # s.platform     = :ios, '6.0'
-  s.source       = { :http=> "https://developer.kii.com/downloads/264/download" }
+  s.source       = { :http=> "https://drive.google.com/file/d/0B51JPTUvXEroWFZoUVE3b1FGSjQ/edit?usp=sharing" }
   s.source_files = 'KiiSDK.framework/Versions/A/Headers/Kii.h'
   s.preserve_paths = 'KiiSDK.framework/*'
   s.requires_arc = true
